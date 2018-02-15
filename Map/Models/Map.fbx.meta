@@ -2756,6 +2756,14 @@ ModelImporter:
     105496: Floor3.027
     105498: Floor3.028
     105500: Floor3.029
+    105502: Cieling_Sloped.001
+    105504: Cieling_Sloped.002
+    105506: Trim.485
+    105508: Trim.487
+    105510: Trim.488
+    105512: Trim.490
+    105514: Trim.491
+    105516: Trim.492
     400000: Attack Spawn
     400002: Capture Zone
     400004: Deffende Spawn
@@ -5507,6 +5515,14 @@ ModelImporter:
     405496: Floor3.027
     405498: Floor3.028
     405500: Floor3.029
+    405502: Cieling_Sloped.001
+    405504: Cieling_Sloped.002
+    405506: Trim.485
+    405508: Trim.487
+    405510: Trim.488
+    405512: Trim.490
+    405514: Trim.491
+    405516: Trim.492
     2000000: Camera
     2300000: Attack Spawn
     2300002: Capture Zone
@@ -8242,6 +8258,14 @@ ModelImporter:
     2305462: Floor3.027
     2305464: Floor3.028
     2305466: Floor3.029
+    2305468: Cieling_Sloped.001
+    2305470: Cieling_Sloped.002
+    2305472: Trim.485
+    2305474: Trim.487
+    2305476: Trim.488
+    2305478: Trim.490
+    2305480: Trim.491
+    2305482: Trim.492
     3300000: Attack Spawn
     3300002: Capture Zone
     3300004: Deffende Spawn
@@ -10976,6 +11000,14 @@ ModelImporter:
     3305462: Floor3.027
     3305464: Floor3.028
     3305466: Floor3.029
+    3305468: Cieling_Sloped.001
+    3305470: Cieling_Sloped.002
+    3305472: Trim.485
+    3305474: Trim.487
+    3305476: Trim.488
+    3305478: Trim.490
+    3305480: Trim.491
+    3305482: Trim.492
     4300000: Deffende Spawn
     4300002: Attack Spawn
     4300004: Capture Zone
@@ -11105,6 +11137,10 @@ ModelImporter:
     4300252: Floor1.058
     4300254: Floor3.029
     4300256: Floor2.029
+    4300258: Trim.492
+    4300260: Trim.490
+    4300262: Cieling_Sloped.002
+    4300264: Cieling_Sloped.001
     6400000: Attack Spawn
     6400002: Capture Zone
     6400004: Deffende Spawn
@@ -13839,6 +13875,14 @@ ModelImporter:
     6405462: Floor3.027
     6405464: Floor3.028
     6405466: Floor3.029
+    6405468: Cieling_Sloped.001
+    6405470: Cieling_Sloped.002
+    6405472: Trim.485
+    6405474: Trim.487
+    6405476: Trim.488
+    6405478: Trim.490
+    6405480: Trim.491
+    6405482: Trim.492
   externalObjects:
   - first:
       type: UnityEngine:Material
